@@ -1,0 +1,9 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /info_github/api/v1
+
+github:
+  url: https://api.github.com
+  # Fine-grained personal access tokens
+  token: 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
